@@ -2,7 +2,7 @@
   {
     "name": "Your Collection #1",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/1.png",
+    "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/1.png?raw=true",
     "dna": "9a90509d2faeda9fe5f19852653a8033442665a0",
     "edition": 1,
     "date": 1669245161774,
@@ -41,7 +41,7 @@
   {
     "name": "Your Collection #2",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/2.png",
+    "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/2.png?raw=true",
     "dna": "74b747635b11848d6309c15eaeb186391e77ffc7",
     "edition": 2,
     "date": 1669245161900,
@@ -80,7 +80,7 @@
   {
     "name": "Your Collection #3",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/3.png",
+    "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/3.png?raw=true",
     "dna": "f6decd3758fec287ebba5cda110e0f50afacd3d1",
     "edition": 3,
     "date": 1669245162027,
@@ -119,7 +119,7 @@
   {
     "name": "Your Collection #4",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/4.png",
+    "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/4.png?raw=true",
     "dna": "49586424220f84938c235d83d13f1295d9220f38",
     "edition": 4,
     "date": 1669245162147,
@@ -158,7 +158,7 @@
   {
     "name": "Your Collection #5",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/5.png",
+    "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/5.png?raw=true",
     "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
     "edition": 5,
     "date": 1669245162308,

@@ -1,7 +1,7 @@
 {
   "name": "Your Collection #4",
   "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/4.png",
+  "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/4.png?raw=true",
   "dna": "49586424220f84938c235d83d13f1295d9220f38",
   "edition": 4,
   "date": 1669245162147,
