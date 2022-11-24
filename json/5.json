@@ -1,10 +1,10 @@
 {
-  "name": "Your Collection #5",
-  "description": "Remember to replace this description",
+  "name": "COMP 1830 2022-2023 Collection #5",
+  "description": "This is an NFT collection for the COMP1830 module!",
   "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/5.png?raw=true",
-  "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+  "dna": "9a90509d2faeda9fe5f19852653a8033442665a0",
   "edition": 5,
-  "date": 1669245162308,
+  "date": 1669251947217,
   "attributes": [
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Middle"
+      "value": "Low"
     },
     {
       "trait_type": "Top lid",
-      "value": "Middle"
+      "value": "High"
     }
   ],
   "compiler": "HashLips Art Engine"

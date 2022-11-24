@@ -1,0 +1,39 @@
+{
+  "name": "COMP 1830 2022-2023 Collection #2",
+  "description": "This is an NFT collection for the COMP1830 module!",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "749f101fac6b14a3ad2024d979ad264167b8f104",
+  "edition": 2,
+  "date": 1669251946826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

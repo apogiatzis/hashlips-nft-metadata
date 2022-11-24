@@ -1,0 +1,39 @@
+{
+  "name": "COMP 1830 2022-2023 Collection #10",
+  "description": "This is an NFT collection for the COMP1830 module!",
+  "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/10.png?raw=true",
+  "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+  "edition": 10,
+  "date": 1669251947854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

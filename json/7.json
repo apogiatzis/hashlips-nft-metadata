@@ -1,10 +1,10 @@
 {
-  "name": "Your Collection #4",
-  "description": "Remember to replace this description",
-  "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/4.png?raw=true",
-  "dna": "49586424220f84938c235d83d13f1295d9220f38",
-  "edition": 4,
-  "date": 1669245162147,
+  "name": "COMP 1830 2022-2023 Collection #7",
+  "description": "This is an NFT collection for the COMP1830 module!",
+  "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/7.png?raw=true",
+  "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+  "edition": 7,
+  "date": 1669251947464,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Eye color",
-      "value": "Purple"
+      "value": "Yellow"
     },
     {
       "trait_type": "Iris",
-      "value": "Medium"
+      "value": "Small"
     },
     {
       "trait_type": "Shine",
