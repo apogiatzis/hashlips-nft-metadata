@@ -1,7 +1,7 @@
 {
   "name": "COMP 1830 2022-2023 Collection #3",
   "description": "This is an NFT collection for the COMP1830 module!",
-  "image": "ipfs://NewUriToReplace/3.png",
+  "image": "https://github.com/apogiatzis/hashlips-nft-metadata/blob/master/images/3.png?raw=true",
   "dna": "d0c3fc91f45880c4a7ef62b16c2b0ace3df04c2d",
   "edition": 3,
   "date": 1669251946950,
